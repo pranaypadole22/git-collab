@@ -1,0 +1,1 @@
+document.getElementById("mainImg").src="assets/creation_3.jpeg";
